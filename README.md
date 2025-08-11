@@ -13,7 +13,7 @@
 - ⚡ Interested in **API Development, MVC Frameworks, and Automation**
 - 🌱 Currently learning **Docker, Redis Queues, and Livewire**
 - 📍 From Iran, open to global collaborations
-- 📫 Reach me at: **[Telegram](https://t.me/YOUR_TELEGRAM_ID)** | **[Email](mailto:YOUR_EMAIL)**
+- 📫 Reach me at: **[Telegram](https://t.me/noway_dude)** | **[Email](mailto:ahmadaghazade18@gmail.com)**
 
 ---
 
@@ -46,6 +46,6 @@
 
 ### 📬 Contact
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM_ID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/noway_dude"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:ahmadaghazade18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
